@@ -318,9 +318,9 @@ sh 100-remove-software*
 sh 110-install-nemesis-software*
 sh 120-install-core-software*
 
-sh 160-install-bluetooth*
-sh 170-install-cups*
-sh 180-ananicy*
+#sh 160-install-bluetooth*
+#sh 170-install-cups*
+#sh 180-ananicy*
 
 #packages we need to build
 sh 200-software-aur-repo*
@@ -328,7 +328,7 @@ sh 200-software-aur-repo*
 #sh 400-surfn-extras*
 
 # for arcoplasma
-sh 500-plasma*
+#sh 500-plasma*
 
 # installation of Chadwm
 sh 600-chadwm*
